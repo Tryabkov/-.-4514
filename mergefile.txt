@@ -8,3 +8,10 @@ conflict feature from dev 1
 conflict feature from dev 1
 conflict feature from dev 1
 conflict feature from dev 1
+conflict feature form dev 2
+conflict feature form dev 2
+conflict feature form dev 2conflict feature form dev 2
+
+conflict feature form dev 2
+conflict feature form dev 2
+conflict feature form dev 2
