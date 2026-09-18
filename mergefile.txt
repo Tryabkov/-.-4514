@@ -3,3 +3,8 @@
 очень
 важной
 информацией
+conflict feature from dev 1
+conflict feature from dev 1
+conflict feature from dev 1
+conflict feature from dev 1
+conflict feature from dev 1
