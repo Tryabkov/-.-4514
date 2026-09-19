@@ -38,7 +38,7 @@ https://github.com/Kurtyanik/LR6/
 
     git log --oneline --all --graph --decorate
 
-![git_hist_small.png](imgs/git_hist_small.png)
+![hist.png](imgs/hist.png)
 Рисунок 2 - История изменений
 
 Графическое отображение истории позволило увидеть последовательность коммитов и расположение веток относительно друг друга.
